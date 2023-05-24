@@ -5,7 +5,7 @@
 *Functionalities:*
 - [x] User Registration :tada:
 - [x] User Login :tada:
-- [x] JWT Authenticatione :tada:
+- [x] JWT Authentication :tada:
 - [x] CRUD operations for your contacts w/ Authorization and Ownership :tada:
 
 
